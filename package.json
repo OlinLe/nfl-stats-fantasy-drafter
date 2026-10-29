@@ -1,0 +1,12 @@
+{
+  "name": "nfl-stats-fantasy-drafter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NFL player statistics search, comparison, and fantasy roster builder.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,6 @@
+.DS_Store
+
+# Local API configuration / secrets
+.env
+.env.*
+!.env.example
