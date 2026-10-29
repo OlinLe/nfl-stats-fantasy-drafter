@@ -69,7 +69,3 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Resume Description
-
-Built an NFL statistics and fantasy-drafting web app using HTML, CSS, JavaScript, and Node.js; integrated a third-party sports data API through a secure backend proxy, implemented player comparison and PPR scoring logic, and optimized repeat data access with browser caching.
