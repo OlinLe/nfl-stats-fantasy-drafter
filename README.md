@@ -23,7 +23,3 @@ HTML, CSS, vanilla JavaScript, and a small Node.js server that keeps the API key
 ## Note on API keys
 
 The local server reads the API key from `.env` and proxies the API request, so the browser and public repository never receive the credential. Use an environment variable with your hosting provider when deploying.
-
-## Resume description
-
-Built an NFL statistics and fantasy-drafting web app using HTML, CSS, and JavaScript; integrated a third-party sports data API, implemented player comparison and PPR scoring logic, and optimized repeat data access with browser caching.
